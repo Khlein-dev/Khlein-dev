@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Khlein
 
-<!--
-**Khlein-dev/Khlein-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring developer passionate about building clean, functional, and user-friendly applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- JavaScript, TypeScript  
+- React, React Native (Expo)  
+- Node.js  
+- HTML, CSS  
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 What I Do
+- Build mobile apps using React Native  
+- Create simple and effective UI/UX  
+- Implement navigation, forms, and animations  
+- Integrate APIs and manage state
+
+## 💼 What I Contribute
+- Clean and maintainable code  
+- Fast learning and adaptability  
+- Creative but practical problem-solving  
+- Strong attention to detail
+
