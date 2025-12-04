@@ -15,9 +15,4 @@ Aspiring developer passionate about building clean, functional, and user-friendl
 - Implement navigation, forms, and animations  
 - Integrate APIs and manage state
 
-## 💼 What I Contribute
-- Clean and maintainable code  
-- Fast learning and adaptability  
-- Creative but practical problem-solving  
-- Strong attention to detail
 
