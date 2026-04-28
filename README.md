@@ -1,28 +1,91 @@
-Hi, I’m Khlein
+# Hi, I’m Khlein
 
-Aspiring developer focused on building clean, functional, and user-centered digital experiences. I specialize in developing scalable mobile and web applications with an emphasis on performance, usability, and thoughtful design.
+Aspiring developer focused on building clean, functional, and user-centered digital experiences. I specialize in developing scalable mobile and web applications with emphasis on performance, usability, and thoughtful design.
 
-Professional Summary
+---
 
-I design and develop applications that combine functionality with intuitive user experience. My work includes building responsive mobile apps, creating polished interfaces, integrating APIs, and implementing efficient application architecture.
+## Professional Summary
+I design and develop applications that combine functionality with intuitive user experience. My work includes building responsive mobile apps, creating polished interfaces, integrating APIs, and implementing scalable architectures.
 
-Core Competencies
-Mobile Application Development (React Native, Flutter)
-Frontend Development (React, Angular, Vue)
-UI/UX Design and Prototyping
-API Integration and State Management
-Backend Development (Node.js, Express, PHP)
-Database Management (MySQL, PostgreSQL, MongoDB)
-Cloud and Deployment Solutions
-Technical Stack
-<div align="left" style="display:flex; flex-wrap:wrap; gap:12px; padding:16px; border-radius:12px; background: linear-gradient(90deg, #0f172a, #1e293b);"> <img src="https://skillicons.dev/icons?i=react" alt="React" title="React / React Native" style="background:#61DAFB; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" style="background:#3178C6; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" style="background:#339933; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express.js" style="background:#ffffff; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="background:#47A248; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" style="background:#336791; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" style="background:#FFCA28; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" style="background:#FF9900; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" style="background:#F24E1E; padding:10px; border-radius:10px;" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="background:#F05032; padding:10px; border-radius:10px;" /> </div>
-Development Philosophy
+---
 
-I value clean code, scalable architecture, and meaningful design. My goal is to create applications that not only work efficiently but also provide seamless and engaging experiences for users.
+## Core Competencies
+- Mobile Application Development (React Native)
+- Frontend Development (React, TypeScript)
+- UI/UX Design and Prototyping
+- API Integration and State Management
+- Backend Development (Node.js, Express)
+- Database Design and Management
+- Cloud Deployment and Scalable Systems
 
-Current Focus
-Cross-platform mobile development
-Full-stack application architecture
-Modern UI/UX systems
-Performance optimization
-Cloud deployment and scalability
+---
+
+## Technical Stack
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap:14px; padding:18px; border-radius:12px; background:#0f172a;">
+
+  <div style="background:#61DAFB; padding:14px; border-radius:12px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=react" width="40" />
+    <div>React</div>
+  </div>
+
+  <div style="background:#3178C6; padding:14px; border-radius:12px; text-align:center; color:white;">
+    <img src="https://skillicons.dev/icons?i=ts" width="40" />
+    <div>TypeScript</div>
+  </div>
+
+  <div style="background:#339933; padding:14px; border-radius:12px; text-align:center; color:white;">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+    <div>Node.js</div>
+  </div>
+
+  <div style="background:#000000; padding:14px; border-radius:12px; text-align:center; color:white;">
+    <img src="https://skillicons.dev/icons?i=express" width="40" />
+    <div>Express</div>
+  </div>
+
+  <div style="background:#47A248; padding:14px; border-radius:12px; text-align:center; color:white;">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+    <div>MongoDB</div>
+  </div>
+
+  <div style="background:#336791; padding:14px; border-radius:12px; text-align:center; color:white;">
+    <img src="https://skillicons.dev/icons?i=postgres" width="40" />
+    <div>PostgreSQL</div>
+  </div>
+
+  <div style="background:#FFCA28; padding:14px; border-radius:12px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=firebase" width="40" />
+    <div>Firebase</div>
+  </div>
+
+  <div style="background:#FF9900; padding:14px; border-radius:12px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=aws" width="40" />
+    <div>AWS</div>
+  </div>
+
+  <div style="background:#F24E1E; padding:14px; border-radius:12px; text-align:center; color:white;">
+    <img src="https://skillicons.dev/icons?i=figma" width="40" />
+    <div>Figma</div>
+  </div>
+
+  <div style="background:#F05032; padding:14px; border-radius:12px; text-align:center; color:white;">
+    <img src="https://skillicons.dev/icons?i=git" width="40" />
+    <div>Git</div>
+  </div>
+
+</div>
+
+---
+
+## Development Philosophy
+I prioritize clean architecture, maintainable code, and user-focused design. My goal is to build systems that are not only functional but also scalable and efficient.
+
+---
+
+## Current Focus
+- Cross-platform mobile development
+- Full-stack application architecture
+- Modern UI/UX systems
+- Performance optimization
+- Cloud deployment and scalability
